@@ -35,10 +35,6 @@ Developers and open-source contributors will be welcome to contribute as the pro
 
 This project will use fictional demo data during development. No real student personal information should be uploaded.
 
-## 📜 License
-
-An open-source license will be added before the first public software release.
-
 ## 👨‍💻 Maintainer
 
 Nirop Meshram
